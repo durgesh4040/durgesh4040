@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Nishad</h1>
 <h3 align="center">I'm a Full-Stack Developer, rocking with Spring Boot, React, and MySQL.</h3>
 
-<p align="right"><img  alt="banner" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw2wTkmcKZFzK84fKlb2eY2m&ust=1704667232420000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCICC3LvqyYMDFQAAAAAdAAAAABAE"/></p>
+<p align="right"><img  alt="banner" width="400" src="![image](https://github.com/durgesh4040/durgesh4040/assets/120928669/7ec5f43d-e6d2-4382-8b8e-608f00f60a73)
+"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh4040&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh4040" /> </p>
 
