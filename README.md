@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Nishad</h1>
 <h3 align="center">I'm a Full-Stack Developer, rocking with Spring Boot, React, and MySQL.</h3>
 
-<p align="right"><img src="![Alt text](image.png)" alt="banner" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A679%2F1*zVnWJtyGOX_kUIDm6ccCfQ.gif&tbnid=CVLQvplLvZ78OM&vet=12ahUKEwjpq-3v58mDAxX7UWwGHTOBCKYQMygKegUIARCAAQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&docid=h_gUlk3LQXme3M&w=680&h=428&q=animation%20coding%20gif&ved=2ahUKEwjpq-3v58mDAxX7UWwGHTOBCKYQMygKegUIARCAAQ">
-
+<p align="right"><img  alt="banner" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A679%2F1*zVnWJtyGOX_kUIDm6ccCfQ.gif&tbnid=CVLQvplLvZ78OM&vet=12ahUKEwjpq-3v58mDAxX7UWwGHTOBCKYQMygKegUIARCAAQ..i&imgrefurl=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&docid=h_gUlk3LQXme3M&w=680&h=428&q=animation%20coding%20gif&ved=2ahUKEwjpq-3v58mDAxX7UWwGHTOBCKYQMygKegUIARCAAQ"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh4040&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh4040" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
