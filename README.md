@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Nishad</h1>
 <h3 align="center">I'm a Full-Stack Developer, rocking with Spring Boot, React, and MySQL.</h3>
 
-<p align="right"><img  alt="banner" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbExKRjNyM21xZkVVZzNDWGNJWGYzQzk5MlNxZ3xBQ3Jtc0tuOHppX1BPcFk0V3NhYnpOaGxlS2ljcUVfUkp2UzVGMWtmZ0JmUUw5UUsyODQ4aHdieXloSVpWQWpiUElKRFBpajJOamZvRGtHUWJCQVZGM0dMcHp4Qm5IX284elR4dHZPNlJtTnUxY0taZmFpU01RUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"/></p>
+<p align="right"><img  alt="banner" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw2wTkmcKZFzK84fKlb2eY2m&ust=1704667232420000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCICC3LvqyYMDFQAAAAAdAAAAABAE"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh4040&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh4040" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
