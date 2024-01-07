@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kumar Nishad</h1>
-<h3 align="center">I'm a full-stack developer with a dedicated focus on building robust, user-friendly web solutions using Spring Boot, React, and MySQL.I'm here to take your projects to the next level
+<h3 align="center">I am a full-stack developer with a dedicated focus on building robust, user-friendly web solutions using Spring Boot, React, and MySQL. I'm here to take your projects to the next level.
 </h3>
 
 <img  align="right"  alt="CODING" width="400" src="https://github.com/durgesh4040/durgesh4040/blob/99ddf5a388420b84acc177ed03b632ed423f9241/0_7Q3yvSIv_t0ioJ-Z.gif"
